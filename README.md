@@ -1,6 +1,6 @@
 # face-swap
 
-This is an OpencV-based face swapping program. 
+This is an OpenCV-based face swapping program. 
 
 ![](https://github.com/lizhunan/asset/blob/main/face-swap/pre.gif?raw=true)
 
