@@ -27,10 +27,9 @@ As a real-time face-swapping program, some necessary hardware is required, and t
 ## How to Use
 
 1. Clone the code from Github.
-2. Download the `shape_predictor_68_face_landmarks.dat` which is a model file provided by dlib for face detection with 68 face landmarks.
+2. Download the [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) which is a model file provided by dlib for face detection with 68 face landmarks.
 3. Move the model file to the `./model`.
-4. Run:
-     `python run.py data/target_01.jpg`. 
+4. Run: `python run.py data/target_01.jpg`. 
 
 The `target` is the only parameter that specifies the base image to be fused. In this example, I chose the photo of the Mona Lisa(`./data/target_01.jpg`).
 
