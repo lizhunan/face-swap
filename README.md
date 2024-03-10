@@ -6,7 +6,6 @@ This is an OpenCV-based face swapping program.
 
 <p align="lift">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-4caf50.svg" alt="License"></a>
-</a>
 </p>
 
 ## Requirement
